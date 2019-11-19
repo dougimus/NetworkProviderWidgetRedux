@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Network Provider Widget Redux</string>
+    <string name="appwidget_text">Initializing&#8230;</string>
+    <string name="state_emergency">Emergency Only</string>
+    <string name="state_error">Error</string>
+    <string name="state_no_signal">No Signal</string>
+    <string name="state_radio_off">Radio Off</string>
+</resources>
